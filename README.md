@@ -1,3 +1,3 @@
 # CoffeeMachine
 
-Hello, world! This is my first "intermediate-level" Python project. 
+Hello, world! This is my first "intermediate-level" Python project. The program simulates the workings of a simple coffee machine. It prompts the user to choose a drink and checks if there are sufficient resources (water/milk/coffee) to produce the required drink. It then prompts the user to insert coins for payment, and offers change if necessary. If the user does not insert enough money, the order is not executed. The resources used for the drink are subtracted from and the coins added to the machine's record. The user is able to request a report to view the available resources, and the machine can be switched off by inputting "off".
